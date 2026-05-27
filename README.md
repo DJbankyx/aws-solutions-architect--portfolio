@@ -22,7 +22,7 @@ I believe the best way to learn AWS is to build. Each project here was architect
 
 | # | Project | Difficulty | Key Services | Status |
 |---|---------|-----------|--------------|--------|
-| 1 | [Static Website Hosting](#project-1-static-website-hosting-with-cicd) | ⭐ | S3, CloudFront, Route 53, CodePipeline | 🔲 |
+| 1 | [Static Website Hosting](#project-1-static-website-hosting-with-cicd) | ⭐ | S3, CloudFront, Route 53, CodePipeline | ✅ |
 | 2 | [Infrastructure as Code](#project-2-infrastructure-as-code) | ⭐⭐ | CloudFormation, VPC, EC2 | 🔲 |
 | 3 | [Serverless REST API](#project-3-serverless-rest-api) | ⭐⭐ | API Gateway, Lambda, DynamoDB, Cognito | 🔲 |
 | 4 | [Event-Driven Pipeline](#project-4-event-driven-image-processing) | ⭐⭐⭐ | S3, SQS, Lambda, SNS | 🔲 |
