@@ -52,6 +52,7 @@ I believe the best way to learn AWS is to build. Each project here was architect
 **Architecture:** CloudFormation Template → Stack → VPC + Subnets + EC2 + Gateways
 
 📁 [`/project-02-infrastructure-as-code`](./project-02-infrastructure-as-code)
+**invoke Get link:** Invoke API: https://wffuullzq1.execute-api.us-east-1.amazonaws.com/prod
 
 **What I built:** A complete VPC with public/private subnets, NAT Gateway, Internet Gateway, Security Groups, and EC2 — all defined in CloudFormation YAML.
 
